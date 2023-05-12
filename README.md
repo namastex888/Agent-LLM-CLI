@@ -1,12 +1,10 @@
-# AgentCLI
+# Agent-LLM-CLI
 
-AgentCLI is a CLI for interacting with https://github.com/Josh-XT/Agent-LLM.
+Agent-LLM-CLI is a CLI for interacting with https://github.com/Josh-XT/Agent-LLM.
 
-It's built with Python and uses the `cmd2` library for building the CLI, and `requests` for making HTTP requests to the agent's API.
+It's built with Python and uses the `cmd2` library for building the CLI, and `requests` for making HTTP requests to the Agent-LLM API.
 
 ## Features
-
-AgentCLI provides several features including:
 
 - Listing all agents
 - Adding a new agent
@@ -30,24 +28,22 @@ AgentCLI provides several features including:
 
 ## Clone the repository using the following command:
 ```
-git clone https://github.com/yourusername/AgentCLI.git
+git clone https://github.com/namastex888/Agent-LLM-CLI.git
 ```
-## Change your current directory to the newly cloned AgentCLI project directory using the command:
 ```
-cd AgentCLI
+cd Agent-LLM-CLI
 ```
-## Use pip, a package manager for Python, to install the necessary libraries from the requirements.txt file with this command:
 ```
 pip install -r requirements.txt
 ```
-## Finally, run the AgentCLI application with the following command:
+## Finally, run Agent-LLM-CLI with the following command:
 ```
-python agent_cli.py
+python agent.py
 ```
 
 ## Usage
 
-The application starts in an interactive shell. You can type `help` to get a list of available commands. Each command has its own help message, which can be viewed by typing `help <command>`. Here are some examples of how you can use each command:
+The application starts in an interactive shell. You can type `help -v` to get a list of available commands. Each command has its own help message, which can be viewed by typing `help <command>`. Here are some examples of how you can use each command:
 
 - **list**: Lists all agents. Usage: `list`
   ```
@@ -140,4 +136,4 @@ This project is licensed under the terms of the MIT license.
 
 ## Thanks
 
-@Josh and the amazing job with https://github.com/Josh-XT/Agent-LLM 
+@Josh for the amazing job with https://github.com/Josh-XT/Agent-LLM 
