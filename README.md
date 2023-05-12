@@ -28,19 +28,19 @@ AgentCLI provides several features including:
 ## Setup
 
 
-# Clone the repository using the following command:
+## Clone the repository using the following command:
 ```
 git clone https://github.com/yourusername/AgentCLI.git
 ```
-# Change your current directory to the newly cloned AgentCLI project directory using the command:
+## Change your current directory to the newly cloned AgentCLI project directory using the command:
 ```
 cd AgentCLI
 ```
-# Use pip, a package manager for Python, to install the necessary libraries from the requirements.txt file with this command:
+## Use pip, a package manager for Python, to install the necessary libraries from the requirements.txt file with this command:
 ```
 pip install -r requirements.txt
 ```
-# Finally, run the AgentCLI application with the following command:
+## Finally, run the AgentCLI application with the following command:
 ```
 python agent_cli.py
 ```
