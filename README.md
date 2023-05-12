@@ -1,6 +1,8 @@
 # AgentCLI
 
-AgentCLI is a command line interface (CLI) for interacting with an AI agent. It's built with Python and uses the `cmd2` library for building the CLI, and `requests` for making HTTP requests to the agent's API.
+AgentCLI is a CLI for interacting with https://github.com/Josh-XT/Agent-LLM.
+
+It's built with Python and uses the `cmd2` library for building the CLI, and `requests` for making HTTP requests to the agent's API.
 
 ## Features
 
@@ -135,3 +137,7 @@ Contributions are welcome! Open issues and/or send pull requests :)
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+## Thanks
+
+@Josh and the amazing job with https://github.com/Josh-XT/Agent-LLM 
